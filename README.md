@@ -133,4 +133,4 @@ We welcome contributions to improve this project! To contribute:
 ## Contact
 For questions or support, please reach out:
 - **Email**: nikzmishra@gmail.com
-- **Youtube**: [Youtube Channel](https://www.youtube.com/@DataScience00)
+- **Youtube**: [Youtube Channel](https://www.youtube.com/@NeuralArc00/videos)
